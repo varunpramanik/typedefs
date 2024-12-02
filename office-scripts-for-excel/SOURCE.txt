@@ -1,0 +1,1 @@
+https://github.com/OfficeDev/office-scripts-docs-reference/blob/main/generate-docs/api-extractor-inputs-excel/excel.d.ts
