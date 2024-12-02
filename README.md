@@ -7,5 +7,5 @@ This repository contains static copies of useful type definitions in a predictab
 Some handy supporting resources, such as `deno.jsonc` configuration files, may be included.
 &nbsp;&nbsp;
 
-All contents within this repository are provided as-is.
+All contents within this repository are provided as-is. Anything original contents, i.e. those not sourced from elsewhere, should be considered BSD Zero Clause Licensed. I hope you find them useful.
 &nbsp;&nbsp;
