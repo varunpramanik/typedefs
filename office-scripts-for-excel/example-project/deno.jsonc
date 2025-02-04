@@ -1,7 +1,5 @@
 {
-    "compilerOptions": {
-      "types": [
-        "https://raw.githubusercontent.com/varunpramanik/typedefs/main/office-scripts-for-excel/excel.d.ts"
-      ]
-    }
+  "compilerOptions": {
+    "lib": ["es2019"]
+  }
 }
